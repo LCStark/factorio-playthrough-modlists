@@ -1,0 +1,431 @@
+
+{
+  "mods": 
+  [
+    
+    {
+      "name": "base",
+      "enabled": true
+    },
+    
+    {
+      "name": "elevated-rails",
+      "enabled": true
+    },
+    
+    {
+      "name": "quality",
+      "enabled": false
+    },
+    
+    {
+      "name": "space-age",
+      "enabled": false
+    },
+    
+    {
+      "name": "aai-containers",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-industry",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-loaders",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-signal-transmission",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-signals",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-vehicles-ironclad",
+      "enabled": true
+    },
+    
+    {
+      "name": "afraid-of-the-dark",
+      "enabled": true
+    },
+    
+    {
+      "name": "Aircraft-space-age",
+      "enabled": true
+    },
+    
+    {
+      "name": "alien-biomes",
+      "enabled": true
+    },
+    
+    {
+      "name": "alien-biomes-graphics",
+      "enabled": true
+    },
+    
+    {
+      "name": "anti-gloom",
+      "enabled": true
+    },
+    
+    {
+      "name": "auto-player-control",
+      "enabled": true
+    },
+    
+    {
+      "name": "AutoDeconstruct",
+      "enabled": true
+    },
+    
+    {
+      "name": "automatic-station-painter",
+      "enabled": true
+    },
+    
+    {
+      "name": "Automatic_Train_Painter",
+      "enabled": true
+    },
+    
+    {
+      "name": "BatteryElectricTrain",
+      "enabled": true
+    },
+    
+    {
+      "name": "belt-visualizer",
+      "enabled": true
+    },
+    
+    {
+      "name": "BottleneckLite",
+      "enabled": true
+    },
+    
+    {
+      "name": "bp100",
+      "enabled": true
+    },
+    
+    {
+      "name": "bplib",
+      "enabled": true
+    },
+    
+    {
+      "name": "bullet-trails",
+      "enabled": true
+    },
+    
+    {
+      "name": "CleanFloor",
+      "enabled": true
+    },
+    
+    {
+      "name": "colorblind-pollution-and-nests",
+      "enabled": true
+    },
+    
+    {
+      "name": "construction-train-werl",
+      "enabled": true
+    },
+    
+    {
+      "name": "Constructron-Continued",
+      "enabled": true
+    },
+    
+    {
+      "name": "dqol-resource-monitor",
+      "enabled": true
+    },
+    
+    {
+      "name": "dynamic-robot-queues",
+      "enabled": true
+    },
+    
+    {
+      "name": "early-spidertron",
+      "enabled": true
+    },
+    
+    {
+      "name": "equipment-gantry",
+      "enabled": true
+    },
+    
+    {
+      "name": "even-distribution",
+      "enabled": true
+    },
+    
+    {
+      "name": "even-pickier-dollies",
+      "enabled": true
+    },
+    
+    {
+      "name": "factoryplanner",
+      "enabled": true
+    },
+    
+    {
+      "name": "FactorySearch",
+      "enabled": true
+    },
+    
+    {
+      "name": "far-reach",
+      "enabled": true
+    },
+    
+    {
+      "name": "flib",
+      "enabled": true
+    },
+    
+    {
+      "name": "FluidWagonColorMask",
+      "enabled": true
+    },
+    
+    {
+      "name": "GCKI",
+      "enabled": true
+    },
+    
+    {
+      "name": "ghost-counter",
+      "enabled": true
+    },
+    
+    {
+      "name": "grappling-gun",
+      "enabled": true
+    },
+    
+    {
+      "name": "informatron",
+      "enabled": true
+    },
+    
+    {
+      "name": "InlaidLampsExtended",
+      "enabled": true
+    },
+    
+    {
+      "name": "jetpack",
+      "enabled": true
+    },
+    
+    {
+      "name": "k2-fluid-storage",
+      "enabled": true
+    },
+    
+    {
+      "name": "mech-armor",
+      "enabled": true
+    },
+    
+    {
+      "name": "Milestones",
+      "enabled": true
+    },
+    
+    {
+      "name": "ModuleInserterSimplified",
+      "enabled": true
+    },
+    
+    {
+      "name": "OmegaDrill",
+      "enabled": true
+    },
+    
+    {
+      "name": "ore-eraser-2",
+      "enabled": true
+    },
+    
+    {
+      "name": "Pi-C_lib",
+      "enabled": true
+    },
+    
+    {
+      "name": "RateCalculator",
+      "enabled": true
+    },
+    
+    {
+      "name": "Repair_Turret",
+      "enabled": false
+    },
+    
+    {
+      "name": "Repair_Turret_2",
+      "enabled": true
+    },
+    
+    {
+      "name": "robot_attrition",
+      "enabled": true
+    },
+    
+    {
+      "name": "rocket-log",
+      "enabled": true
+    },
+    
+    {
+      "name": "shield-projector",
+      "enabled": true
+    },
+    
+    {
+      "name": "Shortcuts-ick",
+      "enabled": true
+    },
+    
+    {
+      "name": "skulls",
+      "enabled": true
+    },
+    
+    {
+      "name": "solid-map-ore",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration-graphics",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration-graphics-2",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration-graphics-3",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration-graphics-4",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration-graphics-5",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration-menu-simulations",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration-postprocess",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-spidertron",
+      "enabled": true
+    },
+    
+    {
+      "name": "spidertron-dock",
+      "enabled": true
+    },
+    
+    {
+      "name": "stack-inserters",
+      "enabled": true
+    },
+    
+    {
+      "name": "StatsGui",
+      "enabled": true
+    },
+    
+    {
+      "name": "Todo-List",
+      "enabled": true
+    },
+    
+    {
+      "name": "train-trails",
+      "enabled": true
+    },
+    
+    {
+      "name": "trainsaver",
+      "enabled": true
+    },
+    
+    {
+      "name": "UltimateResearchQueue2",
+      "enabled": true
+    },
+    
+    {
+      "name": "um-standalone-big-mining-drill",
+      "enabled": true
+    },
+    
+    {
+      "name": "um-standalone-cryogenic-plant",
+      "enabled": true
+    },
+    
+    {
+      "name": "um-standalone-electromagnetic-plant",
+      "enabled": true
+    },
+    
+    {
+      "name": "um-standalone-foundry",
+      "enabled": true
+    },
+    
+    {
+      "name": "um-standalone-space-age-lib",
+      "enabled": true
+    },
+    
+    {
+      "name": "VehicleSnap",
+      "enabled": true
+    },
+    
+    {
+      "name": "WhereIsMyBody",
+      "enabled": true
+    }
+  ]
+}
